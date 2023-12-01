@@ -1,1 +1,1 @@
-# fingerprint-ridgr-count
+# fingerprint-ridge-count
